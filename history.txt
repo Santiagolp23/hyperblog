@@ -1,3 +1,5 @@
 This is a text file to learn Git
 
 Second commit :)
+
+Hah, I am already intermediate level on Git.
